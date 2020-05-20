@@ -1,0 +1,26 @@
+h1{
+	color:red;
+	font-family:arial;
+}
+h3{
+	font-size:25;
+	color:gold;
+}
+h4{
+	color:silver;
+	font-weight: light;
+	font-style: oblique;
+	text-align:justify;
+}
+body{
+	background-color:cyan;
+}
+table{
+	background-color:gray;
+	color:white;
+}
+th{
+	font-size:25;
+	font-style;oblique;
+	color:black;
+}
